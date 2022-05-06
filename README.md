@@ -3,7 +3,8 @@
 <p> Project begins </p>
 
 <h3> Goals </h3>
-<ul> add detectron2 </ul>
-<ul> face recognition </ul>
-<ul> blur face </ul>
-<ul> add sunglasses that follow eyes </ul>
+<ul>
+<li> add detectron2 </li>
+<li> face recognition </li>
+<li> blur face </li>
+<li> add sunglasses that follow eyes </li> </ul>
