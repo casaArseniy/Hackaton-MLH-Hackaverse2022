@@ -6,5 +6,5 @@
 <ul>
 <li> add detectron2 [x]</li>
 <li> face recognition [x]</li>
-<li> blur face []</li>
+<li> blur face [x]</li>
 <li> add sunglasses that follow eyes []</li> </ul>
