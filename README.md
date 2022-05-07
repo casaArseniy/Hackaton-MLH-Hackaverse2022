@@ -8,7 +8,9 @@
 <li> face recognition [x]</li>
 <li> blur face [x]</li>
 <li> add transparent mannequin [x]</li> 
-<li> add dress that appears when user is in position [x]</li> 
+<li> add clothes that appears when user is in position [x]</li> 
+<li> the risght position is achieved when the red line is inside the box around the mannequin shoulders [x]</li> 
+<li> swtich clothes using gestures [x]</li> 
 </ul>
 
 <h3> User Manual </h3>
