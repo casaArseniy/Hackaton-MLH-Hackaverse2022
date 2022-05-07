@@ -7,4 +7,6 @@
 <li> add detectron2 [x]</li>
 <li> face recognition [x]</li>
 <li> blur face [x]</li>
-<li> add sunglasses that follow eyes []</li> </ul>
+<li> add transparent mannequin [x]</li> 
+<li> add dress that appears when user is in position [x]</li> 
+</ul>
